@@ -41,6 +41,5 @@ Simply open `index.html` in your browser, or visit the live demo link below.`
 - Editing poorly written code into Semantic HTML
 - Inserting a picture into GitHub
 
-## Screenshots (optional)
-![Screenshot description](images/Screenshot%20(5).png)
+)
 
